@@ -91,7 +91,7 @@ $payout_freq = (YAAMP_PAYMENTS_FREQ / 3600)." hours";
 <?php if (YIIMP_PUBLIC_BENCHMARK): ?>
 <li><b>Benchmarks</b> - <a href='/site/benchmarks'>http://<?= YAAMP_SITE_URL ?>/site/benchmarks</a></li> -->
 <li><a href="https://hth.world">HTH Coin</a></li>
-<li><b>HTH Worldwide Nonprofit</b> - <a href="https://helpthehomelessworldwide.org">HTH Worldwide</a></li>
+<li><a href="https://helpthehomelessworldwide.org">HTH Worldwide</a></li>
 <?php endif; ?>
 
 <?php if (YAAMP_ALLOW_EXCHANGE): ?>

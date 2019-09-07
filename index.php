@@ -1,3 +1,6 @@
+<!-- yiimp\yiimp-next\web\yaamp\modules\site  File Loaction for index.php -->
+
+
 <?php
 
 $algo = user()->getState('yaamp-algo');
